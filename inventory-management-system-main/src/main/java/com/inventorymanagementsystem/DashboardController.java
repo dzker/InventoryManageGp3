@@ -129,7 +129,7 @@ public class DashboardController implements Initializable {
     @FXML
     private Label final_amount;
 
-    private  String invoiceList[]={"BX123456","ZX123456","AX123456"};
+ 
 
     private String quantityList[]={"1","2","3","4","5","6","7","8","9","10"};
 
